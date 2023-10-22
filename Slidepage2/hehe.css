@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-felix-titling: "Felix Titling";
+    --font-monument-extended: "Monument Extended";
+    --font-majestic-personal-use: "Majestic personal use";
+    --font-peace-sans: "Peace Sans";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-104xl: 123px;
+    --font-size-90xl: 109px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro: rgba(217, 217, 217, 0);
+    --color-black: #000;
+  
+    /* Paddings */
+    --padding-3xl: 22px;
+  
+    /* Border radiuses */
+    --br-40xl: 59px;
+  }

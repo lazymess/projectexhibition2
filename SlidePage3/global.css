@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-felix-titling: "Felix Titling";
+    --font-monument-extended: "Monument Extended";
+    --font-majestic-personal-use: "Majestic personal use";
+    --font-peace-sans: "Peace Sans";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-90xl: 109px;
+    --font-size-104xl: 123px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+  }

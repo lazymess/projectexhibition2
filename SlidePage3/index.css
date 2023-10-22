@@ -1,0 +1,167 @@
+.tourist-icon {
+    position: absolute;
+    top: 0;
+    left: 1145px;
+    width: 135px;
+    height: 720px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .guide-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1153px;
+    height: 720px;
+    object-fit: cover;
+  }
+  .assist-my-tour {
+    margin: 0;
+    position: absolute;
+    top: 56px;
+    left: 269px;
+    font-size: 87px;
+    font-weight: 400;
+    font-family: var(--font-peace-sans);
+    display: inline-block;
+    width: 822px;
+    height: 102px;
+    text-shadow: 8px 4px 13px rgba(0, 0, 0, 0.25);
+  }
+  .imgur-com-1-icon {
+    position: absolute;
+    top: 107px;
+    left: 312px;
+    width: 28px;
+    height: 0;
+    object-fit: cover;
+  }
+  .be {
+    top: 222px;
+    left: 179px;
+    font-size: inherit;
+    font-family: inherit;
+    width: 147px;
+    height: 99px;
+  }
+  .a,
+  .be,
+  .guide,
+  .guide1 {
+    margin: 0;
+    position: absolute;
+    font-weight: 400;
+    display: inline-block;
+  }
+  .a {
+    top: 221px;
+    left: 332px;
+    font-size: inherit;
+    font-family: inherit;
+    width: 77px;
+    height: 100px;
+  }
+  .guide,
+  .guide1 {
+    font-size: var(--font-size-90xl);
+    font-family: var(--font-monument-extended);
+    height: 166px;
+  }
+  .guide {
+    top: 335px;
+    left: 179px;
+    color: var(--color-black);
+    width: 460px;
+  }
+  .guide1 {
+    top: 301px;
+    left: 1257px;
+    width: 596px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+  }
+  .main-slider3-child {
+    position: absolute;
+    top: 44.54px;
+    left: 31px;
+    width: 51px;
+    height: 22.57px;
+  }
+  .main-slider3-item {
+    position: absolute;
+    top: 39px;
+    left: 1806px;
+    border-radius: 50%;
+    background-color: var(--color-black);
+    width: 57px;
+    height: 56px;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 5.79%;
+    width: 1.98%;
+    top: 27.99%;
+    right: 7.28%;
+    bottom: 66.23%;
+    left: 90.74%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .main-slider3-inner {
+    position: absolute;
+    top: 40px;
+    left: 1186px;
+    border-radius: 50%;
+    background-color: #7f7c7c;
+    width: 39px;
+    height: 40px;
+  }
+  .discover-more {
+    position: relative;
+    font-size: var(--font-size-base);
+    font-family: var(--font-monument-extended);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .discover-more-wrapper {
+    cursor: pointer;
+    border: 1px solid var(--color-white);
+    padding: 22px 0;
+    background-color: transparent;
+    position: absolute;
+    top: 495px;
+    left: 205px;
+    border-radius: 59px;
+    box-sizing: border-box;
+    width: 212px;
+    height: 46px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .do-you-know {
+    margin: 0;
+    position: absolute;
+    top: 470px;
+    left: 639px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-felix-titling);
+    display: inline-block;
+    width: 444px;
+    height: 98px;
+  }
+  .main-slider3 {
+    text-decoration: none;
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-104xl);
+    color: var(--color-white);
+    font-family: var(--font-majestic-personal-use);
+  }

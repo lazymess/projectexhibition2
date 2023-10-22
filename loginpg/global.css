@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-epilogue: Epilogue;
+    --font-eczar: Eczar;
+    --font-familjen-grotesk: "Familjen Grotesk";
+    --font-alumni-sans: "Alumni Sans";
+    --font-source-serif-pro: "Source Serif Pro";
+  
+    /* font sizes */
+    --font-size-mini: 15px;
+    --font-size-7xl: 26px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray-100: rgba(0, 0, 0, 0.5);
+    --color-black: #000;
+  }
+  
